@@ -16,7 +16,6 @@ public class MainActivity extends AppCompatActivity {
         }
         else{
             setContentView(R.layout.landscape);
-
         }
     }
 }
