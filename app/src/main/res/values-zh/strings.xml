@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">高斯林洛夫莱斯应用</string>
     <string name="ada_name">埃达·洛夫莱斯</string>
     <string name="gosling_name">詹姆斯·高斯林</string>
     <string name="ada">"洛夫莱斯伯爵夫人奥古斯塔·埃达·金·诺尔（Augusta Ada King-Noel, Countess of Lovelace，1815年12月10日－1852年11月27日），原姓拜伦（Byron），是一位英国数学家兼作家，代表作是她为查尔斯·巴贝奇的分析机——机械式通用计算机——所写的作品。她是第一位主张计算机不只可以用来算数的人，也发表了第一段分析机用的算法。因此，埃达被公认为史上第一位认识计算机完全潜能的人，也是史上第一位计算机程序员。[1][2][3]\n"
